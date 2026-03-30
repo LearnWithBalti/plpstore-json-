@@ -7,20 +7,6 @@
     "description": "World Cup 2011 Match Thumbnail Project File."
   },
    {
-    "name": "fial final test data",
-    "image": "https://i.postimg.cc/26f9Whty/wc11Thumbnail.jpg",
-    "download": "https://drive.google.com/drive/folders/1G84wNuU7rxDn7QYtD1D-uWkn6_GngZsZ",
-    "category": "Thumbnails",
-    "description": "World Cup 2011 Match Thumbnail Project File."
-  },
-  {
-    "name": "T20 World Cup 2024",
-    "image": "https://i.postimg.cc/qRdDKyF3/wc24Thumbnail.jpg",
-    "download": "https://www.mediafire.com/file/a5qk0mdxrfcsgoj/WC24_THUMBNAIL_Baltistanigamer1.plp/file",
-    "category": "Thumbnails",
-    "description": "T20 World Cup 2024 Match Thumbnail Project File."
-  },
-    {
     "name": "YouTube Trending Thumbnail",
     "image": "https://i.postimg.cc/ydzpRcGs/Thumbnail.jpg",
     "download": "https://drive.google.com/drive/folders/1jCG7v56KLpLcpe_kQeQ1Opv4gkHzMnYQ",
@@ -28,6 +14,14 @@
     "description": "YouTube Thumbnail Project File for Pixellab."
   },
 
+     {
+    "name": "T20 World Cup 2024",
+    "image": "https://i.postimg.cc/qRdDKyF3/wc24Thumbnail.jpg",
+    "download": "https://www.mediafire.com/file/a5qk0mdxrfcsgoj/WC24_THUMBNAIL_Baltistanigamer1.plp/file",
+    "category": "Thumbnails",
+    "description": "T20 World Cup 2024 Match Thumbnail Project File."
+  },
+   
 
   {
     "name": "T20 World Cup 2026",
